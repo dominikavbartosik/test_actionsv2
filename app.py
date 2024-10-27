@@ -1,3 +1,4 @@
+from src.libb import silnia_rekurencyjna
 
 
 if __name__ == '__main__':
